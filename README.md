@@ -2,7 +2,17 @@
 
 A real-time healthcare chatbot application powered by Google's Gemini AI that provides accurate health information, analyzes food/exercise images, and offers personalized advice.
 
-![Healthcare Assistant Interface](https://placeholder.com/healthcare-assistant-screenshot)
+**Healthcare Assistant Interface**
+
+![Healthcare Assistant Interface](Fig1.png)
+
+**Image Analysis**
+
+![Image Analysis](Fig2.png)
+
+**Comparison**
+
+![Image Analysis](Fig3.png)
 
 ## Features
 
